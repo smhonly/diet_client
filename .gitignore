@@ -1,0 +1,12 @@
+# 微信开发者工具的本机私有配置(含不校验合法域名等本机调试开关),不提交
+project.private.config.json
+
+# 依赖
+node_modules/
+miniprogram_npm/
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
